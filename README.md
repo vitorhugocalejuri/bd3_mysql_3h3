@@ -1,4 +1,6 @@
 # Aulas de MySQL
+## DER do Banco
+![image](https://github.com/user-attachments/assets/6b43c55a-7b38-4dfe-b703-1d6772993ab0)
 
 Bem-vindo ao repositório de Aulas de MySQL! Este repositório foi criado para fornecer uma base sólida e abrangente sobre a utilização do MySQL, um dos sistemas de gerenciamento de banco de dados relacionais (RDBMS) mais populares do mundo. Este material é adequado tanto para iniciantes quanto para desenvolvedores intermediários que desejam aprofundar seus conhecimentos em SQL e MySQL.
 
